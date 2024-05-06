@@ -12,4 +12,6 @@
 - 📫 How to reach me **tabushaikh278@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="Numpy Logo.png" alt="numpy" width="40" height="40"/> </a> </p>
+
+ 
