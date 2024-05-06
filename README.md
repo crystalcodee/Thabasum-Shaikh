@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles [https://medium.com/@tabusheikh278]
 
-- 📫 How to reach me **tabushaikh278@gmail.com**
+- 📫 How to reach me *tabushaikh278@gmail.com*
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -35,4 +35,9 @@
     <a href="https://code.visualstudio.com/docs/editor/vscode-web" target="_blank" rel="noreferrer"> <img src="visual studio codelogo.png" alt="pandas" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/thabasumshaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thabasumshaikh/" height="30" width="40" /></a>
+<a href="https://medium.com/@tabusheikh278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tabusheikh278" height="30" width="40" /></a>
+</p>
 
