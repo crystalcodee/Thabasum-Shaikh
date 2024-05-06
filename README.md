@@ -13,7 +13,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="power BI logo.jpeg" alt="powerbi" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="power BI logo.jpg" alt="powerbi" width="40" height="40"/> </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="Tableau.png" alt="tableau" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="sqlite logo.png" alt="sqlite" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="MYSQL logo.jpeg" alt="mysql" width="40" height="40"/> </a>
