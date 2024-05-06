@@ -1,5 +1,7 @@
 <h2 align="center"> Hey guy's 👋🏼, I'm Thabasum Shaikh <h2>
 <h2 align="center"> Passionate about creating data-driven decision <h2>
+
+<img align="right" alt="coding" width="400" src= "data_analytics.gif">
  
 - 💡*You can have Data without information, but you cannot have information without Data.*
 
