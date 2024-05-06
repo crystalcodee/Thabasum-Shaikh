@@ -1,3 +1,4 @@
+![Banner](https://github.com/crystalcodee/Thabasum-Shaikh/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h2 align="center"> Hey guy's 👋🏼, I'm Thabasum Shaikh <h2>
 <h2 align="center"> Passionate about creating data-driven decision <h2>
 
